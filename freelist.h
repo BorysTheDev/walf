@@ -2,7 +2,6 @@
 #define FREELIST_H
 
 #include <new>
-#include <iterator>
 #include <atomic>
 
 namespace walf {
